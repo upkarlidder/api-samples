@@ -53,7 +53,7 @@
         <dependency>
             <groupId>org.codehaus.jackson</groupId>
             <artifactId>jackson-mapper-asl</artifactId>
-            <version>1.9.4</version>
+            <version>1.9.13</version>
         </dependency>
 
         <dependency>
@@ -85,7 +85,7 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
-                    <compilerArgument></compilerArgument>
+                    <compilerArgument/>
                 </configuration>
             </plugin>
         </plugins>
