@@ -14,7 +14,7 @@
         <project.youtube.version>v3-rev182-1.22.0</project.youtube.version>
         <project.youtube.analytics.version>v1-rev63-1.22.0</project.youtube.analytics.version>
         <project.youtube.reporting.version>v1-rev10-1.22.0</project.youtube.reporting.version>
-        <project.http.version>1.20.0</project.http.version>
+        <project.http.version>1.45.0</project.http.version>
         <project.oauth.version>1.20.0</project.oauth.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
@@ -85,7 +85,7 @@
                 <configuration>
                     <source>1.6</source>
                     <target>1.6</target>
-                    <compilerArgument></compilerArgument>
+                    <compilerArgument/>
                 </configuration>
             </plugin>
         </plugins>
